@@ -1,0 +1,31 @@
+{
+  "name": "passport-panoply",
+  "version": "1.0.0",
+  "description": "Panoply.io authentication strategy for Passport and Node.js.",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/panoplyio/passport-panoply.git"
+  },
+  "keywords": [
+    "passport",
+    "panoply",
+    "panoply.io",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "author": "Roi Avinoam <avinoamr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/panoplyio/passport-panoply/issues"
+  },
+  "homepage": "https://github.com/panoplyio/passport-panoply",
+  "dependencies": {
+    "passport-oauth2": "^1.1.2"
+  }
+}
